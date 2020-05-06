@@ -1,5 +1,6 @@
 # BI-FINAL-PROJECT
 Filename:BI PROJ_mbti.ipynb
+MBTI dataset :https://www.kaggle.com/datasnaek/mbti-type
 
 Objective : to predict MBTI personality type of user based on their social media posts.
 
