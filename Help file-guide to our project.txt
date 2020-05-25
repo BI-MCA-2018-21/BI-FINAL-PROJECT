@@ -1,0 +1,9 @@
+Help File 
+•MBTI dataset :https://www.kaggle.com/datasnaek/mbti-type
+•COMPLETE PROJECT : https://github.com/BI-MCA-2018-21/BI-FINAL-PROJECT
+•DATA folder : https://github.com/BI-MCA-2018-21/BI-FINAL-PROJECT/tree/master/DATA - contains associated csv files
+•DATA VISUALISATION folder: https://github.com/BI-MCA-2018-21/BI-FINAL-PROJECT/tree/master/CODE/DATA%20VISUALISATION%20i.e%20OUTPUT
+•CODE  folder: https://github.com/BI-MCA-2018-21/BI-FINAL-PROJECT/tree/master/CODE
+•SOCIAL MEDIA POSTS OF USER WHOSE PERSONALITY IS PREDICTED: https://github.com/BI-MCA-2018-21/BI-FINAL-PROJECT/tree/master/CODE/TEXT%20INPUT
+•REPORT : https://github.com/BI-MCA-2018-21/BI-FINAL-PROJECT/tree/master/REPORT
+Contains project report and presentation
